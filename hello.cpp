@@ -2,5 +2,6 @@
 void main()
 {
 cout<<"Hello!";
-cout<<"I am using GitHub!";
+cout<<"I am using Windows!";
+cout<<"GoodBye!";
 }
